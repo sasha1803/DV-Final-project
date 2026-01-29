@@ -1,13 +1,5 @@
-pandas 
-
-matplotlib
-
-seaborn
-
 streamlit
-
-openpyxl
-
-
-
-
+matplotlib
+pandas
+seaborn
+numpy
